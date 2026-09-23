@@ -1,4 +1,4 @@
-"""Leave-one-brand-out cold-start simulation (Supplementary Table S13).
+"""leave-one-brand-out cold-start simulation (Supplementary Table S13).
 
 Reviewer #4 asked whether a richer fallback than the global training mean helps
 when a brand is entirely unseen. Only seven December vehicles belong to genuinely
